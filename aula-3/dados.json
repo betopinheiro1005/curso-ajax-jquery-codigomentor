@@ -1,0 +1,22 @@
+[
+	{
+		"nome": "Luis",
+		"sobrenome": "Gomez",
+		"idade": 25
+	},
+	{
+		"nome": "Carmen",
+		"sobrenome": "Lopez",
+		"idade": 20
+	},
+	{
+		"nome": "Lucero",
+		"sobrenome": "Perez",
+		"idade": 18
+	},
+	{
+		"nome": "Daniel",
+		"sobrenome": "Ruiz",
+		"idade": 21
+	}
+]
