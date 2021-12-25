@@ -1,6 +1,8 @@
 # Curso de Ajax com jQuery
 ## Codigo Mentor (Henry Granados)  
 
+### [Vídeos do curso](https://www.youtube.com/watch?v=S-papoiMa2g&list=PLK7sa90aSLe67Z-B0pELfYcHV8vLgNX5g)
+
 ### Lista de aulas
 
 Aula 1 - $.get()  
